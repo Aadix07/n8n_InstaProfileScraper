@@ -14,7 +14,7 @@
     },
     {
       "parameters": {
-        "url": "https://api.apify.com/v2/acts/apify~instagram-scraper/run-sync-get-dataset-items?token=apify_api_cErzkcfvgUvOrj5hEmHM1xv7znfz1x4z03u4",
+        "url": "https://api.apify.com/v2/acts/apify~instagram-scraper/run-sync-get-dataset-items?token=apify_api_key",
         "sendBody": true,
         "specifyBody": "json",
         "jsonBody": "={\n    \"addParentData\": false,\n    \"directUrls\": [\n        \"{{ $json.profile }}\"\n    ],\n    \"enhanceUserSearchWithFacebookPage\": false,\n    \"isUserReelFeedURL\": false,\n    \"isUserTaggedFeedURL\": false,\n    \"resultsLimit\": 5,\n    \"resultsType\": \"posts\",\n    \"searchLimit\": 1,\n    \"searchType\": \"hashtag\"\n}",
