@@ -6,7 +6,7 @@ An automated Instagram profile scraping system built with **n8n** that fetches r
 
 ## 📹 Demo Video
 
-<!-- Add your demo video link here -->
+https://youtu.be/2aSxgngRe7U<!-- Add your demo video link here -->
 
 ---
 
